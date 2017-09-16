@@ -1,0 +1,2 @@
+# LinuxModules
+This repository  contains various Linux Driver files for a beginer. The repository also contains Makefile. "make " command can be used to execute the Makefile which in turn will run the Driver file. This process will generate the .ko(kernel operatable file) which can be loade in the kernel using the "insmod" or "modprobe" command. The module file can be removed by using "rmmod" or "modprobe -r" command.
